@@ -1,0 +1,16 @@
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.exe
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.deps.json
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.runtimeconfig.json
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.dll
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\ref\First.dll
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\bin\Debug\net5.0\First.pdb
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.csproj.AssemblyReference.cache
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.dll
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\ref\First.dll
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.pdb
+C:\Users\gvida\Desktop\Kodai\1 Kodas\First\First\obj\Debug\net5.0\First.genruntimeconfig.cache
